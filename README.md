@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is ppjotrek, and I'm BS in Biomedical Engineering, fascinated in Neural Networks and AI in medical field!
+My name is ppjotrek, and I have Bachelor's degree in Biomedical Engineering, fascinated in Neural Networks and AI in medical field!
 
 - 🌱 I’m currently learning Mobile development & pytorch
 - 👯 I’m looking to collaborate on any healthcare-related projects!
